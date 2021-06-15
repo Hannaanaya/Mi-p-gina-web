@@ -1,0 +1,16 @@
+.Galery {
+    margin-left: 3%;
+    margin-right: 3%;
+    background-color: rgb(214, 213, 213);
+    border-radius: 0.25rem;
+    height: auto;
+}
+.Galery_container img {
+    width: 300px;
+    height: 370px;
+    padding: 25px;
+}
+.Galery_container {
+    width: 100%;
+    text-align: center;
+}

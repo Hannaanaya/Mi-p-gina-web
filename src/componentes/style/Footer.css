@@ -1,0 +1,11 @@
+.Footer {
+    /* height: 60px; */
+    align-items: center;
+    background-color:#000000;
+    color: white;
+}
+
+.Footer p {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}

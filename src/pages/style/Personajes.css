@@ -1,0 +1,10 @@
+.Personajes {
+    width: 100%;
+}
+.Personajes button {
+    margin-left: 46%;
+    font-size: 20px;
+    padding-left: 1%;
+    padding-right: 1%;
+    margin-top: 10px;
+}

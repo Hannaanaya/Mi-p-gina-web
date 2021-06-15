@@ -1,0 +1,126 @@
+{
+    "initalState": {
+      "mylist": [],
+      "condena": [
+        {
+          "id": 2,
+          "name": "Exon",
+          "lastname": "Worsley",
+          "old": "19 años",
+          "raza": "Espectro oscuro",
+          "title": "Condena Sangrienta",
+          "cover": "https://dummyimage.com/600x400/000/fff"
+        },
+        {
+          "id": 3,
+            "name": "André",
+            "lastname": "Worsley",
+            "old": "19 años",
+            "raza": "Humano",
+            "title": "Condena Sangrienta",
+            "cover": "https://dummyimage.com/600x400/000/fff"
+        },
+        {
+          "id": 4,
+            "name": "Shon",
+            "lastname": "Reed",
+            "old": "Incierto",
+            "raza": "Dragón",
+            "title": "Condena Sangrienta",
+            "cover": "https://dummyimage.com/600x400/000/fff"
+        },
+        {
+          "id": 5,
+          "name": "Fiona",
+          "lastname": "Amaris",
+          "old": "18 años",
+          "raza": "Moondana",
+          "title": "Condena Sangrienta",
+          "cover": "https://dummyimage.com/600x400/000/fff"
+        },
+        {
+          "id": 6,
+          "name": "Rosalinda",
+          "lastname": "Bellemore",
+          "old": "17 años",
+          "raza": "Humana",
+          "title": "Condena Sangrienta",
+          "cover": "https://dummyimage.com/600x400/000/fff"
+        },
+        {
+          "id": 7,
+          "name": "Lucia",
+          "lastname": "Morris",
+          "old": "18 años",
+          "raza": "Humana",
+          "title": "Condena Sangrienta",
+          "cover": "https://dummyimage.com/600x400/000/fff"
+        },
+        {
+          "id": 8,
+          "name": "Yane",
+          "lastname": "Howard",
+          "old": "19 años",
+          "raza": "Humana",
+          "title": "Condena Sangrienta",
+          "cover": "https://dummyimage.com/600x400/000/fff"
+        },
+        {
+          "id": 9,
+          "name": "Jack",
+          "lastname": "Hill",
+          "old": "18 años",
+          "raza": "Humano",
+          "title": "Condena Sangrienta",
+          "cover": "https://dummyimage.com/600x400/000/fff"
+        }
+      ],
+      "nicolas": [
+        {
+          "id": 10,
+          "name": "Nicolás",
+          "lastname": "Beryclooth",
+          "old": "18 años",
+          "raza": "Humano",
+          "title": "Mi demonio Nicolás",
+          "cover": "https://dummyimage.com/600x400/000/fff"
+        },
+        {
+          "id": 11,
+          "name": "Arthur",
+          "lastname": "Beryclooth",
+          "old": "16 años",
+          "raza": "Humano",
+          "title": "Mi demonio Nicolás",
+          "cover": "https://dummyimage.com/600x400/000/fff"
+        },
+        {
+          "id": 12,
+          "name": "Adrián",
+          "lastname": "Hale",
+          "old": "16 años",
+          "raza": "Humano",
+          "title": "Mi demonio Nicolás",
+          "cover": "https://dummyimage.com/600x400/000/fff"
+        },
+        {
+          "id": 13,
+          "name": "Jordan",
+          "lastname": "Hellsing",
+          "old": "26 años",
+          "raza": "Humano",
+          "title": "Mi demonio Nicolás",
+          "cover": "https://dummyimage.com/600x400/000/fff"
+        },
+        {
+          "id": 14,
+          "name": "Wendy",
+          "lastname": "Flore",
+          "old": "18 años",
+          "raza": "Humano",
+          "title": "Mi demonio Nicolás",
+          "cover": "https://dummyimage.com/600x400/000/fff"
+        }
+      ]
+    }
+  }

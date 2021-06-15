@@ -1,0 +1,29 @@
+.Boxing {
+    width: 100%;
+    height: auto;
+    padding: 30px;
+}
+
+.Boxing_container {
+    margin-left: 3%;
+    margin-right: 3%; 
+    transition: 450ms -webkit-transform;
+    transition: 450ms transform;
+    transition: 450ms transform, 450ms -webkit-transform;
+    white-space: nowrap;
+    margin: 70px 0px;
+}
+.Boxing_container:hover .carousel-item {
+    opacity: 0.3;
+  }
+  
+.Boxing_container:hover .carousel-item:hover {
+    -webkit-transform: scale(1.5);
+            transform: scale(1.5);
+    opacity: 1;
+}
+
+.Boxing__boxing {
+    display: flex;
+    justify-content: space-between;
+}

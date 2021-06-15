@@ -1,0 +1,48 @@
+.MiniBox-item {
+    background: rgb(211, 211, 211);
+    border-radius: 8px 8px 8px 8px;
+    height: 540px;
+    margin: 20px;
+}
+
+.MiniBox-item__section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 1rem 0;
+}
+.MiniBox-item_photo {
+    width: 350px;
+    margin: 5%;
+    position: relative;
+    padding: 0.5rem 0;
+    display: inline;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.MiniBox-item_photo img {
+    width: 600px;
+    height: 300px;
+}
+
+.MiniBox-item_photo:hover {
+    -webkit-transform:scale(1.3);
+    transform:scale(1.3);
+}
+
+.MiniBox-item_info {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.MiniBox-item__footer {
+    display: flex;
+    height: 20px;
+    position: relative;
+    color: #550000;
+    font-weight: bold;
+    font-style: italic;
+    justify-content: center;
+    align-items: center;
+}

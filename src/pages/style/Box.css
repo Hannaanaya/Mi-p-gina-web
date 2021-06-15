@@ -1,0 +1,11 @@
+.Box {
+    overflow: auto;
+}
+.Box__title {
+    color: black;
+    margin-top: 20px;
+    font-size: 50px;
+    margin-left: 40%;
+    justify-content: center;
+    align-items: center;
+}

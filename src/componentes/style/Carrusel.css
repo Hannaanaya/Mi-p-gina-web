@@ -1,0 +1,25 @@
+.title {
+    font-weight: 100;
+}
+.Books {
+    display: flex;
+    height: 600px;
+    margin-right: 1%;
+    /* margin-left: 1%; */
+    border: white solid;
+    background-color: rgb(214, 213, 213);
+    overflow: auto;
+    align-items: center;
+}
+.Books_container img {
+    width: 300px;
+    height: 460px;
+}
+.project {
+    width: 430px;
+}
+
+.Book {
+    display: flex;
+    padding: 20px;
+}

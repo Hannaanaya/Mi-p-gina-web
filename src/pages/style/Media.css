@@ -1,0 +1,27 @@
+.Media {
+    margin-left: 3%;
+    margin-right: 3%;
+    border-radius: 0.25rem;
+    height: auto;
+}
+
+.Media button {
+    padding: 1rem;
+    margin-left: 46%;
+    font-size: 20px;
+    padding-left: 1%;
+    padding-right: 1%;
+    margin-top: 2%;
+}
+
+.Media_container img {
+    width: 300px;
+    height: 370px;
+    padding: 25px;
+}
+
+.Media_container {
+    width: 100%;
+    text-align: center;
+    background-color: rgb(214, 213, 213);
+}
