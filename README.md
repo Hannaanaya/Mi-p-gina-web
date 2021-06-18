@@ -1,11 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -76,35 +68,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-=======
-# Mi-página-web
-API estética con REACT
->>>>>>> 5cf337b1dc82f821b714f8375e8922d019cf1f25
-=======
-# Mi-página-web
-API estética con REACT
->>>>>>> 5cf337b1dc82f821b714f8375e8922d019cf1f25
-=======
-# Mi-página-web
-API estética con REACT
->>>>>>> 5cf337b1dc82f821b714f8375e8922d019cf1f25
-=======
-# Mi-página-web
-API estética con REACT
->>>>>>> 5cf337b1dc82f821b714f8375e8922d019cf1f25
-=======
-# Mi-página-web
-API estética con REACT
->>>>>>> 5cf337b1dc82f821b714f8375e8922d019cf1f25
-=======
-# Mi-página-web
-API estética con REACT
->>>>>>> 5cf337b1dc82f821b714f8375e8922d019cf1f25
-=======
-# Mi-página-web
-API estética con REACT
->>>>>>> 5cf337b1dc82f821b714f8375e8922d019cf1f25
-=======
-# Mi-página-web
-API estética con REACT
->>>>>>> 5cf337b1dc82f821b714f8375e8922d019cf1f25
