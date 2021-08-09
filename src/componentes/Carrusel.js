@@ -23,7 +23,7 @@ render() {
             </div>
             </div>
             
-          <div id="image" className="col-sm-auto ">
+          <div id="image" className="col-sm-auto">
           <Image className="img-fluid mt-5 ml-4 mr-3" src={L1} alt="First slide" />
           </div>
 
@@ -31,7 +31,7 @@ render() {
                 <div className="project mt-5 ml-4 mr-2">
                   <h3 className="title">{this.props.title1} </h3>
                   <h6><strong>ADVERTENCIA</strong> {this.props.danger1} </h6>
-                  <p><strong>Categoría: </strong>+16</p>
+                  <p><strong>Categoría: </strong>{this.props.categ}</p>
                   <p><strong>Género: </strong>{this.props.genero1} </p>
                   <p><strong>Sinopsis: </strong>{this.props.sinopsis1} </p>
                 </div>

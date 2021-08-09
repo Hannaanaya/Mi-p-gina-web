@@ -5,7 +5,6 @@
     display: flex;
     height: 600px;
     margin-right: 1%;
-    /* margin-left: 1%; */
     border: white solid;
     background-color: rgb(214, 213, 213);
     overflow: auto;
@@ -14,6 +13,9 @@
 .Books_container img {
     width: 300px;
     height: 460px;
+    /* margin: 20px; */
+    margin-left: 20px;
+    margin-right: 40px;
 }
 .project {
     width: 430px;

@@ -63,7 +63,7 @@ class Media extends Component {
 
         return (
             <div className="Media">
-                <Link to="/inicio">
+                <Link to="/">
                  <button className="btn btn-primary" >
                     Regresar a inicio
                  </button>

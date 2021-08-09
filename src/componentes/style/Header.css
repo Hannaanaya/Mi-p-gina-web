@@ -22,7 +22,7 @@
 }
 .Header_buscar input {
     width: auto;
-    border-radius: 7%;
+    border-radius: 0.5%;
     padding: 0.700rem;
     margin-right: 10px;
     font-size: 20px;

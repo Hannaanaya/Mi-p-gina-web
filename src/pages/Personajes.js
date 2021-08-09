@@ -20,13 +20,13 @@ const Personajes = () => {
 
 return (
     <div className="Personajes">
-        <Link to="/inicio">
+        <Link to="/">
         <button className="btn btn-primary" >
             Regresar a inicio
         </button>
         </Link>
 
-        {media.mylist?.length > 0 &&
+        {media.mylist.length > 0 &&
         <Box title="Mi lista" >
          <Boxing>
             <MiniBox />
